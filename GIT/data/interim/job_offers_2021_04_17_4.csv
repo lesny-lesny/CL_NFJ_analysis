@@ -1,0 +1,56 @@
+name;company;technology;job;location_city;location_coutry;salary_low;salary_high;salary_currency
+Quality Assurance Engineer/Data Analyst;Link Group Sp. z o. o.;sql;data analyst; Kraków;POL;12000;16000;PLN 
+Data Analyst;PHLEXGLOBAL POLAND SP Z.O.O;N/A;data analyst; Lublin;POL;5000;7000;PLN 
+Data Scientist;Samba TV;python;data analyst; Warszawa;POL;10000;16500;PLN 
+Data Analyst (Credit Risk);AVENGA;N/A;data analyst; Warszawa;POL;5000;9000;PLN 
+Senior Product Manager;co.brick;N/A;data analyst; Gliwice;POL;12000;20000;PLN 
+Test Engineer;AI INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;java;data analyst; Warszawa;POL;6000;8000;PLN 
+Product Data Analyst;BOLD;N/A;data analyst;Zdalna;N/A;8000;10000;PLN 
+Tester / Data Analyst;DPDgroup IT Solutions sp. z o.o.;N/A;data analyst; Warszawa;POL;5000;10000;PLN 
+Data Engineer/Python Developer;AVENGA;python;data analyst;Zdalna;N/A;23520;26880;PLN 
+Data Engineer;Simon-Kucher & Partners;N/A;data analyst; Warszawa;POL;9200;14650;PLN 
+Data Manager;HUB HR,  a part of Sales and Marketing Global (Poland) sp. z o.o;N/A;data analyst; Katowice;POL;14000;20000;PLN 
+Digital Analyst (BI);dentsu Polska;N/A;data analyst; Warszawa;POL;6000;8000;PLN 
+Technical Solutions Specialist NP;RTB House;N/A;data analyst;Zdalna;N/A;6000;10000;PLN 
+Product Owner/Senior Business Analyst;Silent Eight Pte. Ltd.;N/A;data analyst;Zdalna;N/A;14000;18000;PLN 
+Business Intelligence Data Analyst I;Jamf;N/A;data analyst;Zdalna;N/A;5000;6250;PLN 
+Business Intelligence Analyst;Tylko;N/A;data analyst;Zdalna;N/A;8000;12000;PLN 
+Data Analytics Implementation Specialist;IIIT;N/A;data analyst;Zdalna;N/A;10000;16000;PLN 
+Power BI Data Analyst;Devire;N/A;data analyst; warszawa;POL;13440;16800;PLN 
+Senior Data Analyst;Devire;N/A;data analyst;Zdalna;N/A;16800;20160;PLN 
+Data Scientist - BI Analyst;Cloud Best;N/A;data analyst; Warszawa;POL;10000;14000;PLN 
+Product Owner (Remote);BEANS;N/A;data analyst;Zdalna;N/A;9000;16000;PLN 
+Big Data Analyst;Solid Bridge Solutions Sp. z o.o.;SQL;data analyst; Warsaw;POL;10000;13000;PLN 
+Technical Product DevOps;kyp.ai;N/A;data analyst;Zdalna;N/A;20000;33000;PLN 
+Data Scientist;Tidio;N/A;data analyst;Zdalna;N/A;15000;22000;PLN 
+Data Analyst;IIIT;N/A;data analyst; Warszawa;POL;8000;12000;PLN 
+Data Analyst Intern (Tableau);Global App Testing;N/A;data analyst; Kraków;POL;2600;3000;PLN 
+Data Scientist Team Leader;Pannon-Work;python;data analyst; Budapest;HUN;13927;27854;PLN 
+Technical PO/IT Business System Analyst;Fresha;N/A;data analyst;Zdalna;N/A;10000;18000;PLN 
+IT Business Analyst;Margo;N/A;data analyst; Warszawa;POL;17000;21000;PLN 
+Project Manager;Efigence SA;N/A;data analyst; Warszawa;POL;12000;20000;PLN 
+Product Manager;Qpony.pl Sp. z o.o.;N/A;data analyst;Zdalna;N/A;8000;11000;PLN 
+Remote Data Engineer;CDQ Poland;N/A;data analyst;Zdalna;N/A;9000;15000;PLN 
+UX/UI Designer;HL Tech;N/A;data analyst; Warsaw;POL;6500;9500;PLN 
+UX/UI Designer;HL Tech;N/A;data analyst; Warsaw;POL;6500;9500;PLN 
+Frontend Developer;Evotrex Zrt.;javascript;data analyst; Budapest;HUN;7596;11394;PLN 
+Technical Support Engineer;Telestream;N/A;data engeenier; Kraków;POL;10000;13000;PLN 
+UE4 VR Game Developer;VR Mirai Sp. z o.o.;UE4;data engeenier; Warszawa;POL;9000;12000;PLN 
+Ruby Software Engineer;Smart Pension;ruby on rails;data engeenier; Warszawa;POL;16000;23000;PLN 
+Java Backend Developer;ProData Consult;java;data engeenier;Zdalna;N/A;16800;20160;PLN 
+Remote Unity Game Developer;Rage Quit Games;unity;data engeenier;Zdalna;N/A;15000;22000;PLN 
+Senior Product Manager;AVENGA;N/A;data engeenier;Zdalna;N/A;27000;31322;PLN 
+Data Scientist;Samba TV;python;data scientist; Warszawa;POL;10000;16500;PLN 
+Data Scientist;Link Group Sp. z o. o.;N/A;data scientist;Zdalna;N/A;21000;25000;PLN 
+Senior Data Scientist;FLYR Poland sp.z.o.o;python;data scientist; Kraków;POL;18000;25000;PLN 
+Data Scientist;Britenet;N/A;data scientist;Zdalna;N/A;12000;16000;PLN 
+Data Scientist (genomics);Nexer;N/A;data scientist;Zdalna;N/A;14448;21840;PLN 
+Data Scientist;Lerta;python;data scientist;Zdalna;N/A;8000;15000;PLN 
+Machine Learning Engine / Data Scientist;Idego Group Sp. z o.o.;python;data scientist;Zdalna;N/A;19000;23000;PLN 
+Data Scientist - BI Analyst;Cloud Best;N/A;data scientist; Warszawa;POL;10000;14000;PLN 
+Data Scientist;deepsense.ai Sp. z o.o.;python;data scientist;Zdalna;N/A;10000;16000;PLN 
+Data Scientist;Allegro;N/A;data scientist; Warsaw;POL;12000;18000;PLN 
+Data Scientist;Miquido;SQL;data scientist;Zdalna;N/A;11400;15700;PLN 
+Data Scientist;Tidio;N/A;data scientist;Zdalna;N/A;15000;22000;PLN 
+Senior Data Scientist;CRODU;SQL;data scientist;Zdalna;N/A;21840;25200;PLN 
+Data Scientist Team Leader;Pannon-Work;python;data scientist; Budapest;HUN;13927;27854;PLN 
